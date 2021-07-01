@@ -1,0 +1,74 @@
+body {
+    background-color: #252525;
+}
+
+#ascii {
+    background-image: linear-gradient(to right, violet, indigo, rgb(81, 185, 219), green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 150;
+}
+
+#cyberosdescription {
+    background-image: linear-gradient(to right, violet, indigo, rgb(81, 185, 219), green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: -30;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#cyberoswebsite {
+    background-image: linear-gradient(to right, violet, indigo, rgb(81, 185, 219), green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#cyberoswebsite:visited {
+    background-image: linear-gradient(to right, violet, indigo, rgb(81, 185, 219), green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#cyberoswebsite:active {
+    background-image: linear-gradient(to right, violet, indigo, rgb(81, 185, 219), green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#goback {
+    background-image: linear-gradient(to right, violet, indigo, rgb(81, 185, 219), green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#goback:visited {
+    background-image: linear-gradient(to right, violet, indigo, rgb(81, 185, 219), green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#goback:active {
+    background-image: linear-gradient(to right, violet, indigo, rgb(81, 185, 219), green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}

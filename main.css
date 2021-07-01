@@ -1,0 +1,146 @@
+body {
+    background-color: #252525;
+}
+
+#ascii {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 150;
+}
+
+#pyytdownloadlink {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: -30;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#pyytdownloadlink:visited {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: -30;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#pyytdownloadlink:active {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: -30;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#usrmanlink {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#usrmanlink:visited {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#usrmanlink:active {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#shitifylink {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#shitifylink:visited {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#shitifylink:active {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#runlink {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#runlink:visited {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#runlink:active {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#cyberoslink {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#cyberoslink:visited {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#cyberoslink:active {
+    background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
